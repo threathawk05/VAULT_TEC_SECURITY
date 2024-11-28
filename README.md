@@ -84,10 +84,10 @@ Follows a user-defined pattern to generate passwords.
   
 Example: Pattern LLNNSS → Password: Ab12@#
 
-### Example Interaction 🖥️
+## Example Interaction 🖥️
 <img width="559" alt="image" src="https://github.com/user-attachments/assets/56c42a67-a93f-437b-96b0-b82ad477fc45">
 
-### 📝 License
+## 📝 License
 This project is open source and available under the MIT License.
 
 [MIT](https://choosealicense.com/licenses/mit/)
