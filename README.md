@@ -54,7 +54,7 @@ This project is a Python-based **Password Generator** that uses **four different
 
 ## Algorithms Explained 🧠
 
-### 1. Basic Random Selection
+ 1. Basic Random Selection
   Randomly generates a password by selecting characters from:
 
 - Uppercase letters
@@ -64,17 +64,17 @@ This project is a Python-based **Password Generator** that uses **four different
 
 Example: A8@lR2q!
 
-## 2. Markov Chain
+ 2. Markov Chain
 Uses a starting character and generates a password based on a random sequence of transitions.
 
 Example: aPwL12!e
 
-## 3. XOR-Based Password
+ 3. XOR-Based Password
 Generates a password using the XOR operation between a base string and random integers for added randomness.
 
 Example: 7z@f&Ui9
 
-## 4. Pattern-Based Password
+ 4. Pattern-Based Password
 Follows a user-defined pattern to generate passwords.
 
 - L: Letters
