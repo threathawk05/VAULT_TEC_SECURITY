@@ -11,6 +11,12 @@ This project is a Python-based **Password Generator** that uses **four different
 - [Example Interaction 🖥️](#example-interaction🖥️)
 - [License 📝](#license📝)
 
+- [Overview](#overview)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [How It Works](#how-it-works)
+
 
 ## Features ✨
 
