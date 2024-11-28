@@ -3,14 +3,13 @@
 This project is a Python-based **Password Generator** that uses **four different algorithms** to create secure and customizable passwords. It's designed to help users generate strong passwords tailored to their needs, ensuring both security and flexibility.
 
 ---
-
 ## Table of Contents 📖
-- [Features ✨](#features-✨)
-- [Getting Started 🚀](#getting-started-🚀)
-- [Usage 🛠️](#usage-🛠️)
-- [Algorithms Explained 🧠](#algorithms-explained-🧠)
-- [Example Interaction 🖥️](#example-interaction-🖥️)
-- [License 📝](#license-📝)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Algorithms Explained](#algorithms-explained)
+- [Example Interaction](#example-interaction)
+- [License](#license)
 
 ## Features ✨
 
