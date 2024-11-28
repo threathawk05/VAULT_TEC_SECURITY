@@ -4,12 +4,13 @@ This project is a Python-based **Password Generator** that uses **four different
 
 ---
 ## Table of Contents 📖
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Algorithms Explained](#algorithms-explained)
-- [Example Interaction](#example-interaction)
-- [License](#license)
+- [Features ✨](#features✨)
+- [Getting Started 🚀](#getting-started🚀)
+- [Usage 🛠️](#usage-🛠️)
+- [Algorithms Explained 🧠](#algorithms-explained🧠)
+- [Example Interaction 🖥️](#example-interaction🖥️)
+- [License 📝](#license📝)
+
 
 ## Features ✨
 
